@@ -82,6 +82,10 @@
     <property name="text">
      <string>Reset</string>
     </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../images3.jpeg</normaloff>../../images3.jpeg</iconset>
+    </property>
    </widget>
    <widget class="QPushButton" name="reset">
     <property name="geometry">
@@ -91,6 +95,12 @@
       <width>191</width>
       <height>171</height>
      </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>191</width>
+      <height>171</height>
+     </size>
     </property>
     <property name="text">
      <string>Cemera</string>

@@ -1,0 +1,8 @@
+
+matplotlib==3.5.2
+pandas==1.4.3
+plotly==5.9.0
+prophet
+streamlit==1.11.0
+streamlit_option_menu
+yfinance
